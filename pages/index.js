@@ -28,7 +28,7 @@ const HomePage = ({ projects = [] }) => (
       sx={{ py: [3, 4], mt: [3, 4], mb: [5, 6] }}
     >
       <Heading sx={{ variant: 'text.title', fontSize: [4, 5] }}>
-        Highlighted projects
+        abc Highlighted projects
       </Heading>
       <Text sx={{ fontSize: [2, 3], my: [3, 4], maxWidth: 'copyPlus' }}>
         <ProjectsCopy />
